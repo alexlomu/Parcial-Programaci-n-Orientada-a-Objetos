@@ -1,1 +1,1 @@
-# Parcial-Programaci-n-Orientada-a-Objetos
+# Parcial-Programacion-Orientada-a-Objetos
